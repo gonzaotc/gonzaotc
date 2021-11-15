@@ -1,9 +1,9 @@
-Hello!.
+Hello!
 Im an Informatics Engineering student from Argentina and trainee frontend-developer.
+
 My technologies are JavaScript, jQuery, CSS, Sass, html, C and Pascal. 
 
 Im currently learning AJAX and API's use on JS, plus the wonderfull powers of Sass.
-Im reading Eloquent Javascript and Make it stick.
 
 Nexts months I will be working in React, Typescript and Node.js
 
