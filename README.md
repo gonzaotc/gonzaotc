@@ -1,4 +1,4 @@
-Hello!, Im Gonzalo Othacehe, 21. 
+Hello!.
 Im an Informatics Engineering student from Argentina and trainee frontend-developer.
 My technologies are JavaScript, jQuery, CSS, Sass, html, C and Pascal. 
 
