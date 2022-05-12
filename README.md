@@ -1,4 +1,4 @@
-Hello!
+Hello! <br/>
 I'm a front-end developer at Valtech and Software Engineering student in Argentina.<br/>
 My main tech skills are Next.js, React.js, Tailwind, SASS, vanilla JS and CSS.<br/>
 
