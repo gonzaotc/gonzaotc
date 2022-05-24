@@ -9,7 +9,7 @@ I have to comeback to playing guitar some day, but i'm spending most of my free 
 Currently learning:<br/>
 Solidity to do some cool decentralized projects, ethers.js to interact with my frontends and TypeScript to improve my code realiability.
 
-I'm working with Valtech at a big payment system project for hundreds of pharmacys in the region. (Next.js, Styled Components, Storybook, Docker, AWS)
+I'm working with Valtech at a big payment system for hundreds of pharmacys in the region. (Next.js, Styled Components, Storybook, Docker, AWS)
 
 Side projects that i'm currently working on:<br/>
 - Chainz Network: Minecraft Server with NFT's and tokens. Using Next.js, TailwindCSS, Ethers.js, Rainbowkit & wagmi.
