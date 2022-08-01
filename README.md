@@ -13,7 +13,6 @@ I'm working with Valtech at a big billing system for hundreds of pharmacys in th
 
 Side projects that i'm currently working on:<br/>
 - Chainz Network: Minecraft Server with NFT's and tokens. Using Next.js, TailwindCSS, Ethers.js, Rainbowkit & wagmi.
-- Smart Coffee shop: Small app deployed on the polygon blockchain to gift coffees and store + display messages. Using Next.js, TailwindCSS, Ethers.js, MetaMask, Solidity & Open Zepellin Contracts.
 - Alchemy Hackaton: We are making a NFT-gated voting system where the NFT evolve every time a member votes on a proposal. Using Next.js, TailwindCSS, Ethers.js, Rainbowkit, wagmi and Solidity.
 
 
