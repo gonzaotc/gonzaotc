@@ -15,7 +15,7 @@ Side projects that i'm currently working on:<br/>
 - Chainz Network: Minecraft Server with NFT's and tokens. Using Next.js, TailwindCSS, Ethers.js, Rainbowkit & wagmi.
 - Alchemy Hackaton: We are making a NFT-gated voting system where the NFT evolve every time a member votes on a proposal. Using Next.js, TailwindCSS, Ethers.js, Rainbowkit, wagmi and Solidity.
 
-Want to know more about me or think that we could be a good match?. https://gonzaotc.com/
+Want to know more about me or think that we could be a good match?. Meet me at https://gonzaotc.com/
 
 
 
