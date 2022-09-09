@@ -17,6 +17,8 @@ Talking about Dapp engineering, I also like to use Web3.js, Ethers.js, web3-reac
 
 I'm practicing through side-projects and applying to web3 hackathons. I and my team just won an Alchemy hackathon and the Media Party hackathon in 2022 :).
 
+Currently building LookingForGroup for the ETHOnline, a decentralized team-making social network powered by Smart Contracts.
+
 I'm looking to break into the web3 industry, so if you want to know more about me, or think that we could be a good match, you have all my contact info at  https://gonzaotc.com/.<br/>
 <br/>
 See you soon!
