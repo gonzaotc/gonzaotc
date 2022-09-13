@@ -1,4 +1,4 @@
-Hello dear traveler, <br/>
+Hey, <br/>
 You just stepped into a passionate front-end and dapp developer profile.
 
 I will tell you a bit more about me. <br/><br/>
