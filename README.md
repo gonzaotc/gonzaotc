@@ -44,6 +44,4 @@ Also, I like going out of the cave to enjoy nature, do sports and meet friends ;
 ## :email: Contact
 * Do you think that we could be a good match for a project?, contact me. I will be pleased to book a call with you. [gonza.otc@gmail.com](mailto:gonza.otc@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
-<br/>
-
 #### *Have a nice day and keep building!*
