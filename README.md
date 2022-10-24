@@ -1,5 +1,12 @@
 # Gm dear traveller :wave:
 
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonza.otc@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gonzaotc/)
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.linkedin.com/in/gonzaotc/)
+[![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzaotc/)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gonzaotc)
+<a href="https://www.lensfrens.xyz/gonzaotc.lens"><img src="https://mirror-media.imgix.net/nft/fxLLnfELgHtWF_DcH4TfA.png?h=null&w=null&auto=compress" height="28" width="68" ></a>
+
 ## :zap: About me<br/>
 
 :mortar_board: I'm Gonzalo Othacehe, a passionate **Full-stack Web3 Developer** (specialized in **Front End Development** within the React and Next.js ecosystem), but I also like to do **Smart Contracts development** with Solidity.  
@@ -21,7 +28,7 @@ Also, I like going out of the cave to enjoy nature, do sports and meet friends ;
 * :computer: **Participated on ETHOnline**, where we built ***Looking for Group***, a team formation and on-chain money distribution dapp *(August 2022)*
 * :computer: **Participated on Web3athon by HackerEarth**, where I built ***Wooy*** frontend, non-custodial stacking where you contribute to social iniciatives and win unique prizes *(August 2022)*
 
-## :dart: Currently working om 
+## :dart: Currently working on
 
 * :milky_way: [Concensys Blockchain Bootcamp](https://consensys.net/academy/bootcamp/)
 
@@ -36,9 +43,6 @@ Also, I like going out of the cave to enjoy nature, do sports and meet friends ;
 ## :email: Contact
 * Do you think that we could be a good match for a project?, contact me, I will be pleased to book a call with you. [gonza.otc@gmail.com](mailto:gonza.otc@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonza.otc@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gonzaotc/)
-[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.linkedin.com/in/gonzaotc/)
-[![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzaotc/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gonzaotc)
-<a href="https://www.lensfrens.xyz/gonzaotc.lens"><img src="https://mirror-media.imgix.net/nft/fxLLnfELgHtWF_DcH4TfA.png?h=null&w=null&auto=compress" height="28" width="68" ></a>
+<br/>
+
+#### *Have a nice day and keep building!*
