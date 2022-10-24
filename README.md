@@ -1,24 +1,34 @@
-Hey, <br/>
-You just stepped into a passionate front-end and dapp developer profile.
+# gm dear traveller :wave:
 
-I will tell you a bit more about me. <br/><br/>
-I believe in technology as a tool to solve real people's problems, and I think that blockchains and decentralization are the way to fight towards a better and fairer future, with more financial inclusion and where everyone would be able to make free use of their finances.
+## :zap: About me<br/>
 
-I'm currently working as a front-end developer at Valtech in a large payment and billing management system mainly with Next.js, React.js, Redux, and Styled Components. 
+:mortar_board: I'm Gonzalo Othacehe, a passionate **Full-stack Web3 Developer** (specialized in **Front End Development** within the React and Next.js ecosystem), but I also like to do **Smart Contracts development**.  
 
-I'm a Devcon VI Scholar, granted by and studying with the Ethereum Foundation, and I'm finishing the Ethereum Developer Program. Hope to meet you in Devcon!
+:briefcase: I work as a **Front-end Developer** at ***Valtech***, currently finishing the development of a large payment and billing management system for a big client, mainly with Next.js, React.js, Redux, and Styled Components. 
 
-I like to spend my free time learning about blockchain, financial inclusion & crypto adoption, and practicing Smart Contracts development with Solidity, Ethers.js, Hardhat, and TypeScript to contribute to the web3 ecosystem.
+:cyclone: **Vision**:  I believe in technology as a tool to solve real people's problems, and I see blockchain and decentralization as the way to strive towards a better and fairer future, **empowering individuals** over their finances and ownership of their data.
 
-Currently learning and focusing: <br/>
-The front-end is my stronger side, so now I'm learning to write better Smart Contracts with Solidity, test them and apply good practices. Also polishing user experiences through the interfaces, trying to make them easier, which I think that is super important if we want to onboard millions of users to web3 products.
+:dart: I like to spend my free time learning and reading about blockchain, financial inclusion, crypto adoption, philosophy, non-fiction and fantasy, and practicing Smart Contracts development in side-projects and hackathons. 
+Also, I like going out of the cave to enjoy nature, doing sports and meeting friends ;) .  
 
-Talking about Dapp engineering, I also like to use Web3.js, Ethers.js, web3-react, Wagmi.sh, Open Zeppelin contracts, Chainlink services and now I'm practicing with The Graph. 
+## :medal_sports: Achievements
 
-I'm practicing through side-projects and applying to web3 hackathons. I and my team just won an Alchemy hackathon and the Media Party hackathon in 2022 :).
+* :unicorn: **Ethereum Foundation Scholar to Devcon VI**, selected as a potential high-impact ethereum contributor *(Q4 2022)*
+* :large_blue_diamond: **Completed the Ethereum Developer Program** by Platzi and the Ethereum Foundation *(Q3 2022)*
+* :2nd_place_medal: **Won MetaMask and Polygon Prizes** on ETHBogotá, where we built ***MyPFS***, a privacy solution for distribuited storages *(August 2022)*
+* :1st_place_medal: **1st place at Media Party Web3 hackathon** where we built ***Letther***, a social dapp on lens protocol for journalists. *(August 2022)*
+* :1st_place_medal: **1st place at Alchemy Web3 Online hackathon** where we built ***NFT-gated governance & proof-of-participation*** *(August 2022)*
+* :computer: **Participated on ETHOnline**, where we built ***Looking for Group***, a team formation and on-chain money distribution dapp *(August 2022)*
+* :computer: **Participated on Web3athon by HackerEarth**, where I built ***Wooy*** frontend, non-custodial stacking where you contribuite to social iniciatives and win unique prizes *(August 2022)*
 
-Currently building LookingForGroup for the ETHOnline, a decentralized team-making social network powered by Smart Contracts.
 
-I'm looking to break into the web3 industry, so if you want to know more about me, or think that we could be a good match, you have all my contact info at  https://gonzaotc.com/.<br/>
-<br/>
-See you soon!
+## Currently working on 
+
+* :milky_way: [Concensys Blockchain Bootcamp](https://consensys.net/academy/bootcamp/)
+
+* :scroll: [C4's Certified Ethereum Professional (CEP) certification](https://cryptoconsortium.org/certifications/cep/) 
+
+* :hammer_and_wrench: :fire: As **the Front-end is my stronger side**, I'm learning to **write better Smart Contracts** to have a better over-all understanding of the Web3 architecture, testing them and applying good practices. Also **polishing user experiences in the interfaces**, trying to make them easier, which I consider unavoidable if we want to be able to onboard the next billion users to our Web3 products.
+
+### Stack
+* JavaScript, React.js, Next.js, CSS, Styled Components, SASS, TailwindCSS, TS, GraphQL, Ethers.js, web3-react, Web3.js, Wagmi.sh, Open Zeppelin contracts, Chainlink services, TheGraph, Solidity, Hardhat, Remix, Chai. 
