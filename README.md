@@ -22,7 +22,7 @@ Also, I like going out of the cave to enjoy nature, do sports and meet friends ;
 
 * :unicorn: **Ethereum Foundation Scholar to Devcon VI**, selected as a potential high-impact ethereum contributor *(Q4 2022)*
 * :large_blue_diamond: **Completed the Ethereum Developer Program** by Platzi and the Ethereum Foundation *(Q3 2022)*
-* :scroll: **Completed the course and certification in Decentralized Finances** by Defy Education *(Q2 2022)*
+* :money_with_wings: **Completed the course and certification in Decentralized Finances** by Defy Education *(Q2 2022)*
 * :2nd_place_medal: **Won MetaMask and Polygon Prizes** on ETHBogotá, where we built ***MyPFS***, a privacy solution for distribuited storages *(October 2022)*
 * :1st_place_medal: **1st place at Media Party Web3 hackathon** where we built ***Letther***, a social dapp on lens protocol for journalists. *(July 2022)*
 * :1st_place_medal: **1st place at Alchemy Web3 Online hackathon** where we built ***NFT-gated governance & proof-of-participation*** *(May 2022)*
