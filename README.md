@@ -8,7 +8,7 @@
 
 :cyclone: **Vision**:  I believe in technology as a tool to solve real people's problems, and I see blockchain and decentralization as the way to strive towards a better and fairer future, **empowering individuals** over their finances and ownership of their data.
 
-:dart: I like to spend my free time learning and reading about blockchain, financial inclusion, crypto adoption, philosophy, non-fiction and fantasy, and practicing Smart Contracts development in side-projects and hackathons. 
+:books: I like to spend my free time learning and reading about blockchain, financial inclusion, crypto adoption, philosophy, non-fiction and fantasy, and practicing Smart Contracts development in side-projects and hackathons. 
 Also, I like going out of the cave to enjoy nature, doing sports and meeting friends ;) .  
 
 ## :medal_sports: Achievements
@@ -22,13 +22,13 @@ Also, I like going out of the cave to enjoy nature, doing sports and meeting fri
 * :computer: **Participated on Web3athon by HackerEarth**, where I built ***Wooy*** frontend, non-custodial stacking where you contribuite to social iniciatives and win unique prizes *(August 2022)*
 
 
-## Currently working on 
+## :dart: Currently working on 
 
 * :milky_way: [Concensys Blockchain Bootcamp](https://consensys.net/academy/bootcamp/)
 
 * :scroll: [C4's Certified Ethereum Professional (CEP) certification](https://cryptoconsortium.org/certifications/cep/) 
 
-* :hammer_and_wrench: :fire: As **the Front-end is my stronger side**, I'm learning to **write better Smart Contracts** to have a better over-all understanding of the Web3 architecture, testing them and applying good practices. Also **polishing user experiences in the interfaces**, trying to make them easier, which I consider unavoidable if we want to be able to onboard the next billion users to our Web3 products.
+* :hammer_and_wrench: :fire: As **the Front-end is my stronger side**, I'm learning to **write better Smart Contracts** to have a better over-all understanding of the **Web3 architecture**, testing them and applying good practices. Also **polishing user experiences**, trying to make them easier, which I consider unavoidable if we want to be able to onboard the next billion users to our industry. 
 
-### Stack
-* JavaScript, React.js, Next.js, CSS, Styled Components, SASS, TailwindCSS, TS, GraphQL, Ethers.js, web3-react, Web3.js, Wagmi.sh, Open Zeppelin contracts, Chainlink services, TheGraph, Solidity, Hardhat, Remix, Chai. 
+## :keyboard: Stack
+* JavaScript, React.js, Next.js, Jest, CSS, Styled Components, SASS, TailwindCSS, Axios, GraphQL, Ethers.js, Web3.js, web3-react, Wagmi.sh, OpenZeppelin contracts, Chainlink services, Solidity, Hardhat, Remix, Chai. Getting better in TS, TheGraph, RTL.
