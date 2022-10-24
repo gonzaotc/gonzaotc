@@ -11,7 +11,7 @@
 
 :mortar_board: I'm Gonzalo Othacehe, a passionate **Full-stack Web3 Developer** (specialized in **Front End Development** within the React and Next.js ecosystem), but I also like to do **Smart Contracts development** with Solidity.  
 
-:briefcase: I work as a **Front-end Developer** at ***Valtech***, currently finishing the development of a large payment and billing management system for a big client, mainly with Next.js, React.js, Redux, and Styled Components. 
+:briefcase: I work as a **Front-end Developer** at ***Valtech***, currently finishing the development of a large payment and billing management system for a big client, mainly with Next.js, React.js, Redux, and Styled Components. Sadly, all the code is private and saved on BitBucket. 
 
 :cyclone: **Vision**:  I believe in technology as a tool to solve real people's problems, and I see blockchain and decentralization as the way to strive towards a better and fairer future, **empowering individuals** over their finances and ownership of their data.
 
