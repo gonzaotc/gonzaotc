@@ -35,8 +35,6 @@ Also, I like going out of the cave to enjoy nature, do sports and meet friends ;
 
 * :scroll: [C4's Certified Ethereum Professional (CEP) certification](https://cryptoconsortium.org/certifications/cep/) 
 
-* :books: Reading [Mastering Ethereum by Andreas M. Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook/) 
-
 * :hammer_and_wrench: :fire: As **the Front-end is my stronger side**, I'm learning to **write better Smart Contracts** to have a better over-all understanding of the **Web3 architecture**, testing them and applying good practices. Also **polishing user experiences**, trying to make them easier, which I consider unavoidable if we want to be able to onboard the next billion users to our industry. 
 
 ## :keyboard: Stack
