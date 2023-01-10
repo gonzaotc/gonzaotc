@@ -33,7 +33,7 @@ Also, I like going out of the cave to enjoy nature, do sports and meet friends ;
 
 * :milky_way: [Concensys Blockchain Bootcamp](https://consensys.net/academy/bootcamp/)
 
-[* :scroll: [C4's Certified Ethereum Professional (CEP) certification](https://cryptoconsortium.org/certifications/cep/) ](https://www.valorantchallengers.lat/)
+https://www.valorantchallengers.lat/
 
 ## :keyboard: Stack
 * JavaScript, React.js, Next.js, Redux, Jest, CSS, Styled Components, SASS, TailwindCSS, Axios, GraphQL, Ethers.js, Web3.js, web3-react, Wagmi.sh, OpenZeppelin contracts, Chainlink services, Solidity, Hardhat, Remix, Chai. Getting better with TypeScript, TheGraph and RTL.
