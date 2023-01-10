@@ -18,7 +18,7 @@
 :books: I like to spend my free time **learning and reading** about blockchain, financial inclusion, crypto adoption, philosophy, non-fiction and fantasy, and **practicing** Smart Contracts development in side-projects and hackathons. 
 Also, I like going out of the cave to enjoy nature, do sports and meet friends ;) .  
 
-## Web2+1 :medal_sports: Achievements
+## :medal_sports: web2+1 Achievements
 
 * :unicorn: **Ethereum Foundation Scholar to Devcon VI**, selected as a potential high-impact ethereum contributor *(Q4 2022)*
 * :large_blue_diamond: **Completed the Ethereum Developer Program** by Platzi and the Ethereum Foundation *(Q3 2022)*
