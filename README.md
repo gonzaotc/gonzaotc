@@ -33,9 +33,7 @@ Also, I like going out of the cave to enjoy nature, do sports and meet friends ;
 
 * :milky_way: [Concensys Blockchain Bootcamp](https://consensys.net/academy/bootcamp/)
 
-* :scroll: [C4's Certified Ethereum Professional (CEP) certification](https://cryptoconsortium.org/certifications/cep/) 
-
-* :hammer_and_wrench: :fire: As **the Front-end is my stronger side**, I'm learning to **write better Smart Contracts** to have a better over-all understanding of the **Web3 architecture**, testing them and applying good practices. Also **polishing user experiences**, trying to make them easier, which I consider unavoidable if we want to be able to onboard the next billion users to our industry. 
+[* :scroll: [C4's Certified Ethereum Professional (CEP) certification](https://cryptoconsortium.org/certifications/cep/) ](https://www.valorantchallengers.lat/)
 
 ## :keyboard: Stack
 * JavaScript, React.js, Next.js, Redux, Jest, CSS, Styled Components, SASS, TailwindCSS, Axios, GraphQL, Ethers.js, Web3.js, web3-react, Wagmi.sh, OpenZeppelin contracts, Chainlink services, Solidity, Hardhat, Remix, Chai. Getting better with TypeScript, TheGraph and RTL.
