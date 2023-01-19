@@ -31,7 +31,7 @@ Also, I like going out of the cave to enjoy nature, do sports and meet friends ;
 
 ## :dart: Currently working on
 
-* :milky_way: [Concensys Blockchain Bootcamp](https://consensys.net/academy/bootcamp/)
+* :milky_way: [ConcsnSys Blockchain Bootcamp](https://consensys.net/academy/bootcamp/)
 
 * Lead dev at https://www.valorantchallengers.lat/ (freelance)
 
