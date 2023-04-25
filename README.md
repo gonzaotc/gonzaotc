@@ -11,7 +11,7 @@
 
 :mortar_board: I'm Gonzalo Othacehe, a passionate **Full-stack (React/Solidity) Web3 Developer** (specialized in **Front End Development** within the React and Next.js ecosystem), but I also like to do **Smart Contract development and integration**. I am also pursuing my Bachelor in **Computer Science & Engineering**.
 
-:briefcase: I currently work full-time as a **Front-end Developer** at ***Valtech***, currently finishing the development of a large payment and billing management system for a large company in the health ensurance industry, mainly with Next.js, React.js, Redux, and Styled Components. Unfortunately, all the Valtech client's code is closed source.
+:briefcase: I currently work full-time as a **Full Stack Web3 Developer** at ***SpaceDev***,
 
 :cyclone: **Vision**:  I believe in technology as a tool to solve real people's problems, and I see blockchain and decentralization as the way to strive towards a better and fairer future, **empowering individuals** over their finances and ownership of their data.
 
@@ -29,11 +29,6 @@ Also, I like going out of the cave to enjoy nature, do sports and meet friends ;
 * :computer: **Participated on ETHOnline**, where we built ***Looking for Group***, a team formation and on-chain money distribution dapp *(September 2022)*
 * :computer: **Participated on Web3athon by HackerEarth**, where I built ***Wooy*** frontend, non-custodial stacking where you contribute to social iniciatives and win unique prizes *(September 2022)*
 
-## :dart: Currently working on
-
-* :milky_way: [ConcsnSys Blockchain Bootcamp](https://consensys.net/academy/bootcamp/)
-
-* Lead dev at https://www.valorantchallengers.lat/ (freelance)
 
 ## :keyboard: Stack
 * JavaScript, React.js, Next.js, Redux, Jest, CSS, Styled Components, SASS, TailwindCSS, Axios, GraphQL, Ethers.js, Web3.js, web3-react, Wagmi.sh, OpenZeppelin contracts, Chainlink services, Solidity, Hardhat, Remix, Chai. Getting better with TypeScript, TheGraph and RTL.
