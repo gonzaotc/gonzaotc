@@ -1,4 +1,4 @@
-# :wave: gm dear traveller
+# :wave: gm
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonza.otc@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gonzaotc/)
@@ -7,19 +7,20 @@
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gonzaotc)
 <a href="https://www.lensfrens.xyz/gonzaotc.lens"><img src="https://mirror-media.imgix.net/nft/fxLLnfELgHtWF_DcH4TfA.png?h=null&w=null&auto=compress" height="28" width="68" ></a>
 
-## :zap: About me<br/>
+## :zap: About me
 
-:mortar_board: I'm Gonzalo Othacehe, a passionate **Full-stack (React/Solidity) Web3 Developer** (specialized in **Front End Development** within the React and Next.js ecosystem), but I also like to do **Smart Contract development and integration**. I am also pursuing my Bachelor in **Computer Science & Engineering**.
+:mortar_board: I'm a passionate **Full-stack (React/Solidity) Web3 Developer** with my core being the frontend within the React and Next.js ecosystem, but I also like to do Smart Contract Development, integrations, and playing around with new tech. I am also pursuing my Bachelor in Computer Science & Engineering at the National University of Mar del Plata.
 
-:briefcase: I currently work full-time as a **Full Stack Web3 Developer** at ***SpaceDev***.
+:briefcase: I currently work full-time as a Full-stack Web3 Developer at ***SpaceDev***, on DeFi and Account Abstraction-related projects.
 
-:cyclone: **Vision**:  I believe in technology as a tool to solve real people's problems, and I see blockchain and decentralization as the way to strive towards a better and fairer future, **empowering individuals** over their finances and ownership of their data.
+:cyclone: **Vision**:  I believe in technology as a tool to solve real people's problems, and I envision blockchain and decentralization as the way to strive toward a better and fairer future, empowering individuals over their finances and ownership of their data and digital assets.
 
 :books: I like to spend my free time **learning and reading** about blockchain, financial inclusion, crypto adoption, philosophy, non-fiction and fantasy, and **practicing** Smart Contracts development in side-projects and hackathons. 
 Also, I like going out of the cave to enjoy nature, do sports and meet friends ;) .  
 
-## :medal_sports: Some recent Web3 Achievements
+## :medal_sports: Some recent Web3 Things I've done and built outside work ;)
 
+* 🎟️ **3rd place in the WeaveDB Fellowship**, where we built Collectible, an NFT-Gating Loyalties platform that ties physical products to digital Collectibles which unlock experiences with the brand/artists *(July 2023)*
 * :unicorn: **Ethereum Foundation Scholar to Devcon VI**, selected as a potential high-impact ethereum contributor *(Q4 2022)*
 * :large_blue_diamond: **Completed the Ethereum Developer Program** by Platzi and the Ethereum Foundation *(Q3 2022)*
 * :money_with_wings: **Completed the course and certification in Decentralized Finances** by Defy Education *(Q2 2022)*
@@ -31,10 +32,10 @@ Also, I like going out of the cave to enjoy nature, do sports and meet friends ;
 
 
 ## :keyboard: Stack
-* JavaScript, React.js, Next.js, Redux, Jest, CSS, Styled Components, SASS, TailwindCSS, Axios, GraphQL, Ethers.js, Web3.js, web3-react, Wagmi.sh, OpenZeppelin contracts, Chainlink services, Solidity, Hardhat, Remix, Chai. Getting better with TypeScript, TheGraph and RTL.
+* JavaScript, TypeScript, React.js, Next.js, Node.js, Redux, Solidity, Hardhat, Jest, CSS, Styled Components, TailwindCSS, MUI, Ethers.js, Web3.js, web3-react, Wagmi.sh, OpenZeppelin contracts, Chainlink services, Remix, Chai. 
 
 
 ## :email: Contact
-* Do you think that we could be a good match for a project?, contact me. I will be pleased to book a call with you. [gonza.otc@gmail.com](mailto:gonza.otc@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+* Do you think that we could be a good match for a project? don't hesitate to reach me. I will be pleased to have a quick talk. [gonza.otc@gmail.com](mailto:gonza.otc@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 #### *Have a nice day and keep building!*
