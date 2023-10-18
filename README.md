@@ -15,8 +15,7 @@
 
 :cyclone: **Vision**:  I believe in technology as a tool to solve real people's problems, and I envision blockchain and decentralization as the way to strive toward a better and fairer future, empowering individuals over their finances and ownership of their data and digital assets.
 
-:books: I like to spend my free time **learning and reading** about blockchain, financial inclusion, crypto adoption, philosophy, non-fiction and fantasy, and **practicing** Smart Contracts development in side-projects and hackathons. 
-Also, I like going out of the cave to enjoy nature, do sports and meet friends ;) .  
+:books: I like to spend my free time learning and reading about blockchain, financial inclusion, philosophy, non-fiction, and fantasy, and practicing Smart Contracts development in side projects and hackathons. Also, I like going out of the cave to enjoy nature, do sports meet friends, and take a lot of sips from lattes.   
 
 ## :medal_sports: Some recent Web3 Things I've done and built outside work ;)
 
@@ -28,7 +27,7 @@ Also, I like going out of the cave to enjoy nature, do sports and meet friends ;
 * :1st_place_medal: **1st place at Media Party Web3 hackathon** where we built ***Letther***, a social dapp on lens protocol for journalists. *(July 2022)*
 * :1st_place_medal: **1st place at Alchemy Web3 Online hackathon** where we built ***NFT-gated governance & proof-of-participation*** *(May 2022)*
 * :computer: **Participated on ETHOnline**, where we built ***Looking for Group***, a team formation and on-chain money distribution dapp *(September 2022)*
-* :computer: **Participated on Web3athon by HackerEarth**, where I built ***Wooy*** frontend, non-custodial stacking where you contribute to social iniciatives and win unique prizes *(September 2022)*
+* :computer: **Participated on Web3athon by HackerEarth**, where I built ***Wooy*** frontend, non-custodial stacking where you contribute to social initiatives and win unique prizes *(September 2022)*
 
 
 ## :keyboard: Stack
